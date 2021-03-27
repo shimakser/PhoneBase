@@ -1,4 +1,4 @@
-package by.shimakser.main;
+package by.shimakser;
 
 import java.util.ArrayList;
 import java.util.Scanner;

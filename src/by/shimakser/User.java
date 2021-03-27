@@ -1,4 +1,4 @@
-package by.shimakser.main;
+package by.shimakser;
 
 public class User {
 
